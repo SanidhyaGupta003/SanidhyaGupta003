@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sanidhya Gupta</h1>
+<h1 align="center">Hello 👋, I'm Sanidhya Gupta</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanidhyaGupta003?tab=repositories](https://github.com/SanidhyaGupta003?tab=repositories)
